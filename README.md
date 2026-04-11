@@ -1,4 +1,4 @@
-# DreamOmni2: Multimodal Instruction-based Editing and Generation
+# DreamOmni2: Multimodal Instruction-based Editing and Generation (CVPR2026 Highlight)
 
 <p align="center">
     <a href="https://arxiv.org/html/2510.06679v1">
