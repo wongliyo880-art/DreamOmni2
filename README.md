@@ -1,4 +1,4 @@
-# DreamOmni2: Multimodal Instruction-based Editing and Generation
+# DreamOmni2: Multimodal Instruction-based Editing and Generation (CVPR2026 Highlight)
 
 <p align="center">
     <a href="https://arxiv.org/html/2510.06679v1">
@@ -21,6 +21,9 @@
     </a>
     <a href="https://huggingface.co/spaces/wcy1122/DreamOmni2-Gen">
         <img alt="Build" src="https://img.shields.io/badge/🤗-HF%20Generation%20Demo-yellow">
+    </a>
+    <a href="https://www.runninghub.ai/workflow/1980131298238959618">
+        <img alt="Build" src="https://img.shields.io/badge/ComfyUI-Runninghub-blue">
     </a>
 </p>
 
